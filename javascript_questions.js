@@ -23,7 +23,7 @@ function fahrenheitToCelsius(fahrenheit) {
 function celsiusToFahrenheit(celsius) {
     return (celsius * 9 / 5) + 32;
 }
-console.log(fahrenheitToCelsius(100)); // Output: 37.777
+console.log(fahrenheitToCelsius(100)); // Output: 37.77
 console.log(celsiusToFahrenheit(37.777)); // Output: 100
 
 // 5 Calculate the factorial of a positive integer
